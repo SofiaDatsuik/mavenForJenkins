@@ -1,0 +1,453 @@
+2019-05-25 14:04:32 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 14:04:37 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 14:04:37 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 14:04:37 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 14:04:37 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 14:04:39 INFO  SendMessage:107 - This Step open the ChromeDriver and launch the application.
+2019-05-25 14:04:39 INFO  SendMessage:88 - This step enter the email sofdatc@gmail.comon the login page.
+2019-05-25 14:04:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:27 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:31 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:31 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:31 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:31 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:07:33 INFO  SendMessage:107 - This Step open the ChromeDriver and launch the application.
+2019-05-25 16:10:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:10:44 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:10:44 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:10:44 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:10:44 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 16:10:47 INFO  SendMessage:107 - This Step open the ChromeDriver and launch the application.
+2019-05-25 16:10:47 INFO  SendMessage:88 - This step enter the email sofdatc@gmail.comon the login page.
+2019-05-25 16:10:47 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:18 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:22 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:22 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:22 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:22 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:20:24 INFO  SendMessage:92 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:20:24 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:29:30 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:29:34 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:29:34 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:29:34 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:29:34 INFO  SendMessage:91 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:29:34 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:32:52 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:32:56 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:32:56 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:32:56 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:32:56 INFO  SendMessage:91 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:32:56 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:34:41 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:34:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:34:46 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:34:46 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:34:46 INFO  SendMessage:91 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:34:46 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:43:38 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:43:42 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:43:42 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:43:42 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:43:42 INFO  SendMessage:91 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:43:42 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:45:07 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:11 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:11 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:11 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:11 INFO  SendMessage:91 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:45:11 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:45:41 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:45:45 INFO  SendMessage:105 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:45:45 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:46:36 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:46:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:46:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:46:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:46:40 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:46:42 INFO  SendMessage:105 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:46:42 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 20:46:42 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:47:17 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:47:21 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:47:21 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:47:21 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 20:47:21 INFO  SendMessage:96 - This Step open the ChromeDriver and launch the application.
+2019-05-25 20:47:21 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 21:04:12 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:04:19 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:04:19 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:04:19 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:04:19 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:04:19 INFO  SendMessage:93 - This Step open the ChromeDriver and launch the application.
+2019-05-25 21:04:19 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 21:04:19 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:39 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:45 INFO  SendMessage:88 - This Step open the ChromeDriver and launch the application.
+2019-05-25 21:28:45 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-25 21:28:45 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:28:58 INFO  AutorizationBO:24 - Password enter password88wdxterqwin the Password text box
+2019-05-25 21:28:59 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:39:20 INFO  DriverManager:17 - New driver instantiated
+2019-05-25 21:39:27 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 07:46:22 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:29 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-26 07:46:30 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:46:42 INFO  AutorizationBO:24 - Password enter password88wdxterqwin the Password text box
+2019-05-26 07:46:42 INFO  DriverManager:17 - New driver instantiated
+2019-05-26 07:48:49 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 07:51:43 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-26 07:51:44 INFO  AutorizationBO:24 - Password enter password88wdxterqwin the Password text box
+2019-05-26 08:09:43 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 08:09:45 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 08:10:23 INFO  AutorizationBO:24 - User click compose button
+2019-05-26 08:10:27 INFO  AutorizationBO:24 - User click compose button
+2019-05-26 08:10:28 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:10:30 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:11:18 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 08:11:20 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 08:11:30 INFO  AutorizationBO:24 - User click compose button
+2019-05-26 08:11:30 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:11:33 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:25:58 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 08:26:00 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 08:26:10 INFO  AutorizationBO:24 - User click compose button
+2019-05-26 08:26:22 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:26:27 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:27:09 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:29:00 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 08:29:02 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 08:29:11 INFO  AutorizationBO:24 - User click compose button
+2019-05-26 08:29:28 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:30:43 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:32:55 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 08:32:57 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 08:33:06 INFO  AutorizationBO:25 - User click compose button
+2019-05-26 08:33:07 INFO  AutorizationBO:11 - User create new messages
+2019-05-26 08:33:08 INFO  AutorizationBO:17 - Message was sent
+2019-05-26 08:33:09 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:48:00 INFO  SendMessage:93 - This step enter the password 88wdxterqwon the password field .
+2019-05-26 08:48:02 INFO  SendMessage:81 - This step enter the password 88wdxterqwon the password field .
+2019-05-26 08:48:04 INFO  AutorizationBO:24 - Password enter password88wdxterqwin the Password text box
+2019-05-26 08:48:07 INFO  SendMessage:30 - Browser closed
+2019-05-26 08:48:09 INFO  SendMessage:93 - This Step open the ChromeDriver and launch the application.
+2019-05-26 08:48:09 INFO  AutorizationBO:18 - User enter emailsofdatc@gmail.com in the login text box
+2019-05-26 08:48:09 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 08:48:10 INFO  SendMessage:81 - This step enter the password 88wdxterqwon the password field .
+2019-05-26 08:48:11 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 09:22:47 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 09:22:49 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 09:23:01 INFO  MarkAndDeleteImportantMessageBO:16 - 3 conversation marked as important
+2019-05-26 09:23:03 INFO  MarkAndDeleteImportantMessageBO:24 - Messages was choosen
+2019-05-26 09:23:03 INFO  MarkAndDeleteImportantMessageBO:29 - Conversations are deleted
+2019-05-26 09:23:04 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 12:00:27 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 12:00:29 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 12:02:32 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 12:03:18 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 12:06:05 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 12:15:21 INFO  SendMessage:60 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 12:15:48 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 12:42:06 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 13:17:27 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 13:37:02 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 13:37:02 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 13:37:02 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 13:37:08 INFO  SendMessage:54 - User enter correct email
+2019-05-26 13:37:08 INFO  SendMessage:60 - User enter passwordDriverManagerin password text box
+2019-05-26 13:37:08 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 13:37:44 INFO  SendMessage:22 - User enter correct data
+2019-05-26 13:37:44 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:04:36 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:04:36 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:04:36 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:04:38 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:04:38 INFO  SendMessage:60 - User enter passwordDriverManagerin password text box
+2019-05-26 16:04:38 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 16:04:56 INFO  SendMessage:22 - User enter correct data
+2019-05-26 16:05:19 INFO  SendMessage:16 - User mark3message as important
+2019-05-26 16:05:21 INFO  MarkAndDeleteImportantMessageBO:16 - 3 conversation marked as important
+2019-05-26 16:05:21 INFO  SendMessage:22 - Conversations successfuly mark as important
+2019-05-26 16:05:21 INFO  SendMessage:34 - User navigate to important page
+2019-05-26 16:05:23 INFO  SendMessage:28 - Choose 3important message
+2019-05-26 16:05:23 INFO  MarkAndDeleteImportantMessageBO:24 - Messages was choosen
+2019-05-26 16:05:23 INFO  SendMessage:40 - Messages was deleted
+2019-05-26 16:05:23 INFO  MarkAndDeleteImportantMessageBO:29 - Conversations are deleted
+2019-05-26 16:05:24 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:09:01 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:09:01 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:09:01 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:09:03 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:09:04 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:11:06 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:11:06 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:11:06 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:11:08 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:11:09 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:12:31 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:12:31 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:12:31 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:12:32 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:12:33 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:13:33 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:13:33 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:13:33 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:13:34 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:13:35 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 16:14:18 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:14:18 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:14:18 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:14:20 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:14:20 INFO  SendMessage:60 - User enter passwordDriverManagerin password text box
+2019-05-26 16:14:20 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 16:14:32 INFO  SendMessage:22 - User enter correct data
+2019-05-26 16:15:27 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 16:15:27 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 16:15:27 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 16:15:29 INFO  SendMessage:54 - User enter correct email
+2019-05-26 16:15:30 INFO  ServiceHooks:19 - Browser closed
+2019-05-26 17:30:06 INFO  SendMessage:66 - User navigate to gmail home pageGmail
+2019-05-26 17:30:06 INFO  SendMessage:78 - This step enter the email test3mailSelenium@gmail.comon the login page.
+2019-05-26 17:30:06 INFO  AutorizationBO:18 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-26 17:30:08 INFO  SendMessage:54 - User enter correct email
+2019-05-26 17:30:08 INFO  SendMessage:60 - User enter passwordDriverManagerin password text box
+2019-05-26 17:30:08 INFO  AutorizationBO:24 - Password enter passwordDriverManagerin the Password text box
+2019-05-26 17:30:18 INFO  SendMessage:22 - User enter correct data
+2019-05-26 17:30:47 INFO  SendMessage:16 - User mark3message as important
+2019-05-26 17:30:48 INFO  MarkAndDeleteImportantMessageBO:16 - 3 conversation marked as important
+2019-05-26 17:30:48 INFO  SendMessage:22 - Conversations successfuly mark as important
+2019-05-26 17:32:08 ERROR GmailHomePage:96 - Test failed
+2019-05-30 18:07:33 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:33 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:33 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:33 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:33 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  AutorizationBO:12 - User enter emailmail3seleniumtest@gmail.com in the login text box
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  AutorizationBO:12 - User enter emailtest5mailselenium@gmail.com in the login text box
+2019-05-30 18:07:49 INFO  AutorizationBO:12 - User enter emailtest1mailselenium@gmail.com in the login text box
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  AutorizationBO:12 - User enter emailtest2mailselenium@gmail.com in the login text box
+2019-05-30 18:07:49 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:49 INFO  AutorizationBO:12 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-30 18:07:50 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:51 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:51 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:51 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:51 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:53 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:07:53 INFO  AutorizationBO:18 - Password enter passwordDriverManagerin the Password text box
+2019-05-30 18:07:53 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:07:53 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:07:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:54 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:07:55 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:07:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:08 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:08:08 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:13 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:08:13 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:20 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:08:20 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:22 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:08:22 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:08:22 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:22 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:08:22 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:23 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:25 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:08:25 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:08:25 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:25 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:26 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:08:40 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:40 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:41 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:08:41 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:08:41 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:41 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:42 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:08:44 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:44 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:45 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:08:45 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:08:45 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:45 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:08:46 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:10:46 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:46 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:46 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:53 INFO  AutorizationBO:12 - User enter emailtest1mailselenium@gmail.com in the login text box
+2019-05-30 18:10:54 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  AutorizationBO:12 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-30 18:10:54 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:54 INFO  AutorizationBO:12 - User enter emailtest2mailselenium@gmail.com in the login text box
+2019-05-30 18:10:55 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:55 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:55 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:56 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:10:56 INFO  AutorizationBO:18 - Password enter passwordDriverManagerin the Password text box
+2019-05-30 18:10:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:10:56 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:10:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:13 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:11:13 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:13 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:13 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:14 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:11:14 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:14 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:14 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:15 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:11:15 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:11:15 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:15 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:16 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:11:16 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:11:16 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:16 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:11:16 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:11:17 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:11:26 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:11:26 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:15 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:12:47 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:47 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:47 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  AutorizationBO:12 - User enter emailtest1mailselenium@gmail.com in the login text box
+2019-05-30 18:12:56 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:56 INFO  AutorizationBO:12 - User enter emailtest2mailselenium@gmail.com in the login text box
+2019-05-30 18:12:57 INFO  FunctionalTest:20 - Web application launched
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:57 INFO  AutorizationBO:12 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-05-30 18:12:58 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:58 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:58 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:12:59 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:13:00 INFO  AutorizationBO:18 - Password enter passwordqwerty123QWERin the Password text box
+2019-05-30 18:13:00 INFO  AutorizationBO:18 - Password enter passwordDriverManagerin the Password text box
+2019-05-30 18:13:00 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:01 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:01 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:17 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:13:17 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:17 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:17 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:18 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:13:18 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:18 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:18 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:18 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:13:18 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-05-30 18:13:18 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:18 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:13:18 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:19 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:19 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:19 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:20 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:13:20 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:13:20 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:20 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:20 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:13:21 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-05-30 18:13:21 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-05-30 18:13:21 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:21 INFO  FunctionalTest:27 - Browser closed
+2019-05-30 18:13:21 INFO  DriverManager:23 - New driver instantiated
+2019-05-30 18:13:22 INFO  FunctionalTest:27 - Browser closed
