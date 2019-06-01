@@ -7,7 +7,6 @@ public class AutorizationBO {
     private LoginPage loginPage = new LoginPage();
     private static Logger LOG = Logger.getLogger(AutorizationBO.class.getName());
 
-
     public void userEnterEmailAndClickNextButtton(String email) {
         LOG.info("User enter email" + email + " in the login text box");
         loginPage.typeLoginAndSubmit(email);
