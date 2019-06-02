@@ -62,7 +62,7 @@ public class Listener implements ITestListener {
         File scrFile = ((TakesScreenshot) DriverManager.getWebDriver()).getScreenshotAs(OutputType.FILE);
         try {
             String currentDate = new SimpleDateFormat("yyyy-MM-dd HH.mm.ss").format(new Date(System.currentTimeMillis()));
-            File screenhotName = new File("screenshots//screenshot" + ".png" + currentDate);
+            File screenhotName = new File("screenshots//screenshot"+ currentDate + ".png" );
             FileUtils.copyFile(scrFile, screenhotName);
             Reporter.log("<br><img src ='" + screenhotName + "'heigh ='400' weigh = '400'/><br>");
         } catch (IOException e) {
