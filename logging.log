@@ -834,3 +834,91 @@
 2019-06-02 01:02:35 INFO  DriverManager:23 - New driver instantiated
 2019-06-02 01:02:36 INFO  FunctionalTest:27 - Browser closed
 2019-06-02 01:02:37 INFO  FunctionalTest:27 - Browser closed
+2019-06-02 08:37:11 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:11 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  FunctionalTest:20 - Web application launched
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  FunctionalTest:20 - Web application launched
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:20 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:20 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 08:37:20 INFO  AutorizationBO:11 - User enter emailtest2mailselenium@gmail.com in the login text box
+2019-06-02 08:37:21 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:21 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:22 INFO  AutorizationBO:17 - Password enter passwordqwerty123QWERin the Password text box
+2019-06-02 08:37:22 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 08:37:23 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:23 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:41 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 08:37:41 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:41 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:41 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:41 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 08:37:41 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:42 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:42 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:43 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 08:37:43 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 08:37:43 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:43 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:44 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 08:37:45 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 08:37:45 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:45 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:37:45 INFO  FunctionalTest:27 - Browser closed
+2019-06-02 08:37:46 INFO  FunctionalTest:27 - Browser closed
+2019-06-02 08:47:23 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:23 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  FunctionalTest:20 - Web application launched
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 08:47:30 INFO  FunctionalTest:20 - Web application launched
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:30 INFO  AutorizationBO:11 - User enter emailtest2mailselenium@gmail.com in the login text box
+2019-06-02 08:47:31 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:31 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:32 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 08:47:32 INFO  AutorizationBO:17 - Password enter passwordqwerty123QWERin the Password text box
+2019-06-02 08:47:32 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:33 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:42 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 08:47:42 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:47 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:48 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:48 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 08:47:48 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:48 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:48 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:49 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 08:47:49 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 08:47:49 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:49 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:50 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 08:47:50 INFO  FunctionalTest:27 - Browser closed
+2019-06-02 08:47:50 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 08:47:50 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:50 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 08:47:51 INFO  FunctionalTest:27 - Browser closed
