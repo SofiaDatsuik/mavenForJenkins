@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="guice-3.0.0">
+    <CLASSES>
+      <root url="jar://D:/3 курс1 сем/guice-3.0.0.jar!/" />
+      <root url="jar://D:/3 курс1 сем/reportng-1.1.4.jar!/" />
+      <root url="jar://D:/3 курс1 сем/velocity-dep-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

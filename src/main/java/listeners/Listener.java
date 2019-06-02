@@ -63,7 +63,9 @@ public class Listener implements ITestListener {
             String screenshotName = getName();
             String path = getPath(screenshotName);
             FileUtils.copyFile(screenshot, new File(path));
-            CustomLogger.logScreen(screenshotName);
+            CustomLogger.logScreen(
+
+                    screenshotName);
 
         } catch (IOException e) {
             LOG.error(e.getMessage());

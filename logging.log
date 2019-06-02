@@ -1128,3 +1128,133 @@
 2019-06-02 17:02:14 INFO  DriverManager:23 - New driver instantiated
 2019-06-02 17:02:15 INFO  CustomLogger:26 - 2019-06-02 17.02.15screenshot.png
 2019-06-02 17:02:16 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 19:46:27 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 19:46:27 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559493987344
+2019-06-02 19:46:27 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559493987344
+2019-06-02 19:46:27 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 19:46:28 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 19:46:41 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 19:48:01 ERROR GmailHomePage:96 - Test failed
+2019-06-02 19:48:25 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 20:24:57 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 20:24:58 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559496297999
+2019-06-02 20:24:58 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 20:25:00 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 20:25:16 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 20:26:24 ERROR GmailHomePage:96 - Test failed
+2019-06-02 20:26:28 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 20:28:30 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 20:28:30 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559496510178
+2019-06-02 20:28:30 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 20:28:32 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 20:28:49 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 20:28:52 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 20:28:53 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 20:28:53 INFO  Listener:31 - Result successchooseSomeImportantMessagesAndDeleteThem
+2019-06-02 20:28:54 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 20:29:29 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 20:29:29 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559496569659
+2019-06-02 20:29:29 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 20:29:31 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 20:29:44 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 20:30:07 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 20:58:53 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 20:58:53 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559498333779
+2019-06-02 20:58:53 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 20:58:56 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 20:59:08 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:00:17 ERROR GmailHomePage:96 - Test failed
+2019-06-02 21:00:21 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 21:04:17 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:04:17 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559498657849
+2019-06-02 21:04:17 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:04:20 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 21:04:33 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:04:35 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 21:04:36 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 21:04:36 INFO  Listener:31 - Result successchooseSomeImportantMessagesAndDeleteThem
+2019-06-02 21:04:37 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 21:14:51 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:14:51 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559499291492
+2019-06-02 21:14:51 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:14:53 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 21:15:03 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:15:26 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 21:15:36 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559499336542
+2019-06-02 21:17:14 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:17:14 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559499434959
+2019-06-02 21:17:15 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:17:16 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 21:17:28 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:17:57 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 21:45:07 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:45:07 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559501107474
+2019-06-02 21:45:07 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:45:09 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 21:45:26 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:45:30 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 21:49:06 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:49:06 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559501346769
+2019-06-02 21:49:06 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:56:46 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 21:56:46 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559501806923
+2019-06-02 21:56:46 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 21:56:48 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 21:56:55 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 21:57:35 ERROR GmailHomePage:96 - Test failed
+2019-06-02 21:57:38 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 21:57:39 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 22:06:30 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:06:30 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559502390827
+2019-06-02 22:06:30 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:06:32 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:06:43 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:06:46 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 22:06:46 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 22:06:46 INFO  Listener:31 - Result successchooseSomeImportantMessagesAndDeleteThem
+2019-06-02 22:06:48 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:10:29 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:10:29 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559502629148
+2019-06-02 22:10:29 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:10:30 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:10:40 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:12:20 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:12:20 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559502740942
+2019-06-02 22:12:20 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:12:22 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:12:40 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:14:00 ERROR GmailHomePage:96 - Test failed
+2019-06-02 22:15:23 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:18:07 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:18:07 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559503087477
+2019-06-02 22:18:07 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:18:10 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:18:18 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:18:26 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:24:01 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:24:01 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559503441733
+2019-06-02 22:24:01 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:24:04 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:24:22 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:24:25 INFO  MarkAndDeleteImportantMessageBO:51 - Messages was choosen
+2019-06-02 22:24:25 INFO  MarkAndDeleteImportantMessageBO:53 - Conversations are deleted
+2019-06-02 22:24:25 INFO  Listener:31 - Result successchooseSomeImportantMessagesAndDeleteThem
+2019-06-02 22:24:27 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:25:43 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:25:43 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559503543246
+2019-06-02 22:25:43 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:25:45 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:26:01 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:26:20 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:27:17 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:27:17 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559503637390
+2019-06-02 22:27:17 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:27:19 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:27:39 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:27:45 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 22:30:02 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 22:30:02 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559503802990
+2019-06-02 22:30:03 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 22:30:05 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 22:30:23 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 22:30:50 INFO  FunctionalTest:29 - Browser closed

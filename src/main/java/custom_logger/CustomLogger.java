@@ -32,6 +32,6 @@ public class CustomLogger {
     }
 
     public static void logScreen(String screenPath) {
-        Reporter.log("<br>  <img src=" + screenPath + " height='500' width='800'/><br>");
+        Reporter.log("<br>  <img src=\"" + screenPath + "\" height='500' width='800'/><br>");
     }
 }

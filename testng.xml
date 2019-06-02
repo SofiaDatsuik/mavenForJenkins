@@ -1,7 +1,8 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 <suite name="ManageGmail" parallel="methods" data-provider-thread-count="3" verbose="1">
     <listeners>
-        <listener class-name="listeners.Listener"></listener>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     </listeners>
     <test name="ManageGmail">
         <classes>
@@ -9,24 +10,3 @@
         </classes>
     </test>
 </suite>
-
-
-        <!--<?xml version="1.0" encoding="UTF-8"?>-->
-        <!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >-->
-        <!--<suite name="smoke.tests" thread-count="3" parallel="classes">-->
-        <!--<listeners>-->
-        <!--<listener class-name="com.tcoe.testrail.TestListener"/>-->
-        <!--<listener class-name="com.jira.client.JiraTestListener"/>-->
-        <!--</listeners>-->
-        <!--<test name="Smoke tests">-->
-        <!--<groups>-->
-        <!--<run>-->
-        <!--<include name="smoke"/>-->
-        <!--</run>-->
-        <!--</groups>-->
-
-        <!--<packages>-->
-        <!--<package name="com.demo.tests.*"/>-->
-        <!--</packages>-->
-        <!--</test>-->
-        <!--</suite>-->
