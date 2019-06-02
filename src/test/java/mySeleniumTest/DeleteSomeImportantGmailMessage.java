@@ -2,12 +2,14 @@ package mySeleniumTest;
 
 import business.AutorizationBO;
 import business.MarkAndDeleteImportantMessageBO;
+import listeners.Listener;
 import org.apache.log4j.Logger;
 import org.testng.Assert;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import util.readers.Message;
 import util.readers.UserData;
-
+@Listeners(Listener.class)
 public class DeleteSomeImportantGmailMessage extends FunctionalTest {
     private static Logger LOG = Logger.getLogger(DeleteSomeImportantGmailMessage.class.getName());
 
