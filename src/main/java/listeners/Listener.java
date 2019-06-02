@@ -1,5 +1,6 @@
 package listeners;
 
+import custom_logger.CustomLogger;
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -12,6 +13,7 @@ import util.DriverManager;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -53,21 +55,31 @@ public class Listener implements ITestListener {
     public void onFinish(ITestContext iTestContext) {
 
     }
-//
-//    private byte[] makeScreenshot() {
-//        return ((TakesScreenshot) DriverManager.getWebDriver()).getScreenshotAs(OutputType.BYTES);
-//    }
+
 
     public static void makeScreenshot() {
-        File scrFile = ((TakesScreenshot) DriverManager.getWebDriver()).getScreenshotAs(OutputType.FILE);
         try {
-            String currentDate = new SimpleDateFormat("yyyy-MM-dd HH.mm.ss").format(new Date(System.currentTimeMillis()));
-            File screenhotName = new File("screenshots//screenshot"+ currentDate + ".png" );
-            FileUtils.copyFile(scrFile, screenhotName);
-            Reporter.log("<br><img src ='" + screenhotName + "'heigh ='400' weigh = '400'/><br>");
+            File screenshot = ((TakesScreenshot) DriverManager.getWebDriver()).getScreenshotAs(OutputType.FILE);
+            String screenshotName = getName();
+            String path = getPath(screenshotName);
+            FileUtils.copyFile(screenshot, new File(path));
+            CustomLogger.logScreen(screenshotName);
+
         } catch (IOException e) {
-            e.printStackTrace();
+            LOG.error(e.getMessage());
         }
+    }
+
+    private static String getName() {
+//        DateFormat = new SimpleDateFormat("yyyy-MM-dd HH.mm.ss").format(new Date(System.currentTimeMillis()));
+        DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd HH.mm.ss");
+        Date date = new Date();
+        return dateFormat.format(date) + "screenshot" + ".png";
+    }
+
+    private static String getPath(String name) {
+        return "target\\surefire-reports\\html\\" + name;
+
     }
 }
 

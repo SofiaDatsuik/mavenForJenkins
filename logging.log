@@ -1073,3 +1073,58 @@
 2019-06-02 15:20:31 INFO  DriverManager:23 - New driver instantiated
 2019-06-02 15:20:48 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
 2019-06-02 15:20:48 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:20 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  Listener:23 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559479407378
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:27 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 15:43:28 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:29 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 15:43:29 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:59 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 15:43:59 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:59 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:43:59 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:44:01 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 15:44:02 INFO  FunctionalTest:29 - Browser closed
+2019-06-02 16:02:17 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  Listener:24 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559480544481
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:24 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 16:02:25 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:02:26 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 16:02:27 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:08 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  FunctionalTest:22 - Web application launched
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  Listener:25 - Teststarted running:chooseSomeImportantMessagesAndDeleteThem at:1559483956521
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:16 INFO  AutorizationBO:11 - User enter emailtest3mailSelenium@gmail.com in the login text box
+2019-06-02 16:59:17 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:19 INFO  AutorizationBO:17 - Password enter passwordDriverManagerin the Password text box
+2019-06-02 16:59:19 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 16:59:34 INFO  MarkAndDeleteImportantMessageBO:46 - 3 conversation marked as important
+2019-06-02 16:59:34 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 17:00:54 ERROR GmailHomePage:96 - Test failed
+2019-06-02 17:00:54 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 17:02:14 INFO  DriverManager:23 - New driver instantiated
+2019-06-02 17:02:15 INFO  CustomLogger:26 - 2019-06-02 17.02.15screenshot.png
+2019-06-02 17:02:16 INFO  FunctionalTest:29 - Browser closed

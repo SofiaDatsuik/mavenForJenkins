@@ -1,16 +1,8 @@
 package util;
 
-import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
-import java.io.File;
-import java.io.IOException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 public class DriverManager {
@@ -20,7 +12,6 @@ public class DriverManager {
     private DriverManager() { }
 
     public static WebDriver getWebDriver() {
-        LOG.info("New driver instantiated");
         if (DRIVER_POOL.get() == null) {
             DRIVER_POOL.set(createInstanseDriver());
         }
