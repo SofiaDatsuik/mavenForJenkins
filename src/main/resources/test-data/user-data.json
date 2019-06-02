@@ -3,11 +3,11 @@
     {
       "userEmail": "test3mailSelenium@gmail.com",
       "password": "DriverManager"
-    },
-   {
-      "userEmail": "test2mailselenium@gmail.com",
-      "password": "qwerty123QWER"
     }
+//   {
+//      "userEmail": "test2mailselenium@gmail.com",
+//      "password": "qwerty123QWER"
+//    }
 //    {
 //      "userEmail": "test1mailselenium@gmail.com",
 //      "password": "qwerty123QWER"

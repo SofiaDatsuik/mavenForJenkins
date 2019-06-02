@@ -42,15 +42,6 @@ public class DriverManager {
         DRIVER_POOL.set(null);
     }
 
-    public static  void failed() {
-        File scrFile = ((TakesScreenshot) DRIVER_POOL.get()).getScreenshotAs(OutputType.FILE);
-        try {
-            String currentDate = new SimpleDateFormat("yyyy-MM-dd HH.mm.ss").format(new Date(System.currentTimeMillis()));
-            FileUtils.copyFile(scrFile, new File("screenshots//screenshot.png",currentDate));
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
     public static void refreshPage(){
         DRIVER_POOL.get().navigate().refresh();
     }
